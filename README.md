@@ -6,8 +6,8 @@ This repository contains all the Ruby exercises from
 ## Contents
 
 ### Basic Exercises
-- Caesar Cipher
-- Sub Strings
+- [Caesar Cipher](https://github.com/alansun25/ruby-exercises/blob/main/basic-exercises/caesar-cipher.rb)
+- [Sub Strings](https://github.com/alansun25/ruby-exercises/blob/main/basic-exercises/substrings.rb)
 - Stock Picker
 - Bubble Sort
 

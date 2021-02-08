@@ -12,7 +12,7 @@ def caesar_cipher(str, shift)
     shifted.join
 end
 
-### Tests ###
+# Tests
 p caesar_cipher("Z", 1) # "A"
 p caesar_cipher("A", -1) # "Z"
 p caesar_cipher("What a string!", 5) # "Bmfy f xywnsl!"

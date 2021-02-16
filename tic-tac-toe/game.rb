@@ -96,7 +96,7 @@ class Game
 
   def valid_move(index)
     # Check if move is in the scope of the board and that the space is not already taken.
-    index >= 1 && index <= 9 && @board.cells[index - 1].is_a?(Numeric)
+    index.between?(1, 9) && @board.cells[index - 1].is_a?(Numeric)
   end
 
   def replay

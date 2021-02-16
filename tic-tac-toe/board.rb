@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# This class is a 3-by-3 tic-tac-toe board
 class Board
   attr_reader :cells
 
@@ -6,7 +9,7 @@ class Board
   end
 
   def print_board
-    puts %Q(
+    puts %(
        #{@cells[0]} | #{@cells[1]} | #{@cells[2]}
       ---+---+---
        #{@cells[3]} | #{@cells[4]} | #{@cells[5]}

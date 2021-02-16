@@ -11,7 +11,7 @@ This repository contain Ruby exercises from [The Odin Project](https://www.theod
 - [Bubble Sort](https://github.com/alansun25/ruby-exercises/blob/main/basic-exercises/bubble-sort.rb)
 
 ### OO Programming
-- Tic Tac Toe
+- [Tic Tac Toe](https://github.com/alansun25/ruby-exercises/tree/main/tic-tac-toe)
 - Mastermind
 
 ### Files and Serialization
